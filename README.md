@@ -15,5 +15,5 @@ Tip:
 Hide behind wall and you will be safe as walls can block bullets.
 
 P.S.
-I build this porject when I am learning java. I followed and referenced this tutorial https://www.youtube.com/watch?v=62AwmSXl1Uc&list=PLSBA-pitwvH5-nVP6tB8Y3ahSRtE7GwP6
+I built this porject when I was learning java. I followed and referenced some sessions from this tutorial (https://www.youtube.com/watch?v=62AwmSXl1Uc&list=PLSBA-pitwvH5-nVP6tB8Y3ahSRtE7GwP6 - this is one of the sessions)
 
